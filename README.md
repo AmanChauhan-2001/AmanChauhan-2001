@@ -3,17 +3,17 @@
 
 I'm interested in VLSI Design, particularly Physical Design, RTL Design, Static Timing Analysis (STA), and Design Verification.
 
-🔧 Technical Interests:
+🔧 Technical Interests
 
-      1. Physical Design and VLSI Design Flow
-      
-      2. RTL Design and Verification
-      
-      3. Static Timing Analysis
-      
-      4. Digital Electronics and CMOS Fundamentals
-      
-      5. Communication Systems and Signal Processing
+Physical Design and VLSI Design Flow
+
+RTL Design and Verification
+
+Static Timing Analysis (STA)
+
+Digital Electronics and CMOS Fundamentals
+
+Communication Systems and Signal Processing
 
 💻 Technical Skills:
 
