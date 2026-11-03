@@ -30,6 +30,8 @@
 
 Working on predictive SINR modelling for Ultra-Reliable and Low-Latency Communication (URLLC) networks.
 
-📫 Connect with me
+### 🤝 Connect with Me
 
-GitHub: AmanChauhan-2001
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chauhan-r1/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanChauhan-2001)
