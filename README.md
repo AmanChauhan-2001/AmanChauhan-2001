@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Aman Chauhan 👋
+🎓 M.Tech Student in Electronics Engineering at IIT (ISM) Dhanbad.
 
-<!--
-**AmanChauhan-2001/AmanChauhan-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in VLSI Design, particularly Physical Design, RTL Design, Static Timing Analysis (STA), and Design Verification.
 
-Here are some ideas to get you started:
+🔧 Technical Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      1. Physical Design and VLSI Design Flow
+      
+      2. RTL Design and Verification
+      
+      3. Static Timing Analysis
+      
+      4. Digital Electronics and CMOS Fundamentals
+      
+      5. Communication Systems and Signal Processing
+
+💻 Technical Skills:
+
+Languages: C, Python, Verilog
+
+Tools: Yosys, OpenROAD, OpenSTA, KLayout
+
+Libraries: NumPy, Matplotlib, PyTorch
+
+🔬 Research
+
+Working on predictive SINR modelling for Ultra-Reliable and Low-Latency Communication (URLLC) networks.
+
+📫 Connect with me
+
+GitHub: AmanChauhan-2001
