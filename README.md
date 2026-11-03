@@ -28,7 +28,13 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-Working on predictive SINR modelling for Ultra-Reliable and Low-Latency Communication (URLLC) networks.
+### 🔬 Research
+
+**Research Area:** Ultra-Reliable and Low-Latency Communications (URLLC)
+
+Working on predictive SINR modelling for URLLC networks, focusing on interference prediction, statistical modelling, and resource allocation.
+
+**Technologies:** Python, NumPy, Matplotlib, PyTorch
 
 ### 🤝 Connect with Me
 
